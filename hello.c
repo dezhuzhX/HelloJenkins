@@ -7,6 +7,7 @@ int main() {
     printf("4444!\n");
 
     printf("apple!\n");
+    printf("orange!\n");
     return 0;
 }
 
