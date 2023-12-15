@@ -8,6 +8,8 @@ int main() {
 
     printf("apple!\n");
     printf("orange!\n");
+
+    printf("happy birthday");
     return 0;
 }
 
